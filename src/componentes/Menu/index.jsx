@@ -1,9 +1,9 @@
 import styles from "./Menu.module.scss";
-import inicio from "../../assets/home-ativo.png";
-import maisCurtidas from "../../assets/mais-curtidas-inativo.png";
-import maisVistas from "../../assets/mais-vistas-inativo.png";
-import novas from "../../assets/novas-inativo.png";
-import surpreenda from "../../assets/surpreenda-me-inativo.png";
+import inicio from "assets/home-ativo.png";
+import maisCurtidas from "assets/mais-curtidas-inativo.png";
+import maisVistas from "assets/mais-vistas-inativo.png";
+import novas from "assets/novas-inativo.png";
+import surpreenda from "assets/surpreenda-me-inativo.png";
 
 export default function Menu() {
   return (
